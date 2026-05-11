@@ -19,7 +19,7 @@ function App() {
       let user = prompt("enter your name")
 
       console.log(user)
-
+  
     </>
   )
 }
